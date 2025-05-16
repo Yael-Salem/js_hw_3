@@ -1,4 +1,8 @@
 'use strict';
+/*
+ * שמות מגישים:
+יאיל סאלם וליאון מברין
+ */
 // Array Methods Task 5
 const fruits = ["apple", "banana", "cherry", "date"];
 
